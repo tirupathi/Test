@@ -1,0 +1,6 @@
+Sir,
+Today i have worked on smarty.I understood how to seperate Presentation logic and Application logic.
+
+Week update:
+-----------
+I have worked on zend framework.I got clear idea about zend framework architecture.I have downloaded and installed zend framwork on ubuntu.Mean while my system was upgraded from ubuntu to windows.I did start the working on smarty.I got clear idea about presentation logic,Application logic/Business logic and database logic/persistence logics.
